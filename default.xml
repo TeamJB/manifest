@@ -418,7 +418,7 @@
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="du" revision="du44" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="du" revision="du44" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="du" revision="du44" />
-  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="du" revision="du44" />
+  <project path="hardware/qcom/display-caf" name="TeamJB/android_hardware_qcom_display-caf" remote="github" revision="du44-new" />
   <project path="hardware/qcom/keymaster" name="TeamJB/hardware_qcom_keymaster" groups="qcom" revision="du44" remote="github" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="du" revision="du44" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" remote="du" revision="du44" />
