@@ -251,7 +251,6 @@
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
-  <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" revision="refs/tags/android-4.4.4_r1" remote="aosp" />
@@ -420,6 +419,7 @@
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="du" revision="du44" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="du" revision="du44" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="du" revision="du44" />
+  <project path="hardware/qcom/keymaster" name="TeamJB/hardware_qcom_keymaster" groups="qcom" revision="du44" remote="github" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="du" revision="du44" />
   <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" remote="du" revision="du44" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" revision="du44" />
