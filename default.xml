@@ -416,12 +416,12 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="du" revision="du44" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="du" revision="du44" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="du" revision="du44" />
-  <project path="hardware/qcom/audio-caf" name="TeamJB/android_hardware_qcom_audio-caf" remote="github" revision="du44-new" />
+  <project path="hardware/qcom/audio-caf" name="TeamJB/android_hardware_qcom_audio-caf" remote="github" revision="du44" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="du" revision="du44" />
-  <project path="hardware/qcom/display-caf" name="TeamJB/android_hardware_qcom_display-caf" remote="github" revision="du44-new" />
+  <project path="hardware/qcom/display-caf" name="TeamJB/android_hardware_qcom_display-caf" remote="github" revision="du44" />
   <project path="hardware/qcom/keymaster" name="TeamJB/hardware_qcom_keymaster" groups="qcom" revision="du44" remote="github" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="du" revision="du44" />
-  <project path="hardware/qcom/media-caf" name="TeamJB/android_hardware_qcom_media-caf" remote="github" revision="du44-new" />
+  <project path="hardware/qcom/media-caf" name="TeamJB/android_hardware_qcom_media-caf" remote="github" revision="du44" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" revision="du44" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="du" revision="du44" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="du" revision="du44" />
