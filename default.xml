@@ -394,7 +394,7 @@
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="du" revision="du44" />
   <project path="external/openssl" name="android_external_openssl" remote="du" revision="du44" />
   <project path="external/skia" name="external_skia" remote="du" revision="du44" />
-  <project path="manifest" name="manifest" remote="du" revision="du44" />
+  <project path="manifest" name="TeamJB/manifest" remote="github" revision="du44" />
   <project path="libcore" name="libcore" remote="du" revision="du44" />
   <project path="system/core" name="system_core" remote="du" revision="du44" />
   <project path="system/extras" name="system_extras" remote="du" revision="du44" />
